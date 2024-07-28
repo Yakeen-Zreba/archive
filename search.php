@@ -1,6 +1,6 @@
 <?php
 // اتصال بقاعدة البيانات
-$mysqli = new mysqli("localhost", "root", "", "archives");
+$mysqli = new mysqli("localhost", "root", "", "archive");
 
 // التحقق من وجود اتصال
 if ($mysqli->connect_error) {
