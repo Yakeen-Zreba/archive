@@ -6,7 +6,7 @@ session_start(); // بدء الجلسة
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>نظام أرشفة</title>
+    <title> أرشفة</title>
     <link rel="icon" href="logos/short_logo.png" type="image/x-icon">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
